@@ -1,19 +1,16 @@
+# This Site Is Under Construction | Design are not Ready
+
+
 # Project Name: World Weather App
 
 Author: Arifur Rahman
 
 # Features:
 
-<li></li>
-<li></li>
-<li></li>
-
 
 
 # Used Langauga:
 
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li># weather-app
+<li>React.JS</li>
+<li>API</li>
+<li>JSON</li>
